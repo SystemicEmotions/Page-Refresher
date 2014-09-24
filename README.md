@@ -23,7 +23,5 @@ Yes, its possible to run the script on Chrome, but you'll have to find the appro
 Simply type in the URL in the command prompt as well as the number of seconds the browser waits to refresh it.
 
 This can be used in instances when you're waiting for your results to come out, and you're not spamming that poor F5 key.
-
-
-I'll update it later to provide a notification tone, if there is any change on the site when refreshing it.
+On sites like youtube, you can gather a large amount of views, till 300 to be precise.
 
